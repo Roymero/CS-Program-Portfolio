@@ -1,0 +1,17 @@
+﻿  camera.cpp
+C:\Users\romer\Coding Projects\Visual Studio 2022\Double Triangles\doubletriangle\doubletriangle\camera.h(4,9): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  EBO.cpp
+C:\Users\romer\Coding Projects\Visual Studio 2022\Double Triangles\doubletriangle\doubletriangle\EBO.h(5,10): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  Source.cpp
+C:\Users\romer\Coding Projects\Visual Studio 2022\Double Triangles\doubletriangle\doubletriangle\Source.cpp(2,9): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  shaderClass.cpp
+C:\Users\romer\Coding Projects\Visual Studio 2022\Double Triangles\doubletriangle\doubletriangle\shaderClass.h(5,10): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  stb.cpp
+C:\Users\romer\Coding Projects\Visual Studio 2022\Double Triangles\doubletriangle\doubletriangle\stb.cpp(2,10): fatal error C1083: Cannot open include file: 'stb/stb_image.h': No such file or directory
+  Texture.cpp
+C:\Users\romer\Coding Projects\Visual Studio 2022\Double Triangles\doubletriangle\doubletriangle\Texture.h(5,9): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  VAO.cpp
+C:\Users\romer\Coding Projects\Visual Studio 2022\Double Triangles\doubletriangle\doubletriangle\VAO.h(4,9): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  VBO.cpp
+C:\Users\romer\Coding Projects\Visual Studio 2022\Double Triangles\doubletriangle\doubletriangle\VBO.h(5,9): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  Generating Code...
